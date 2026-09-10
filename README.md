@@ -30,7 +30,7 @@ Part 3 — Introduction to CSS
 
 Step 9:Applied CSS styling to the webpage.
 Step 10: Used inline CSS to change a paragraph’s text color.
-Step 11: Internal CSS is not shown in the current version. The final styling uses an external stylesheet and inline styles.
+Step 11: The final styling uses an external stylesheet and inline styles.
 Step 12: Created `style.css` and linked it to `index.html`.
 Step 13: Used element, class, and ID selectors to style the page.
 Step 14: Applied `.highlight` to multiple elements and `#main-heading` to the main heading.
