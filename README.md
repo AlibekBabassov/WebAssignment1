@@ -7,8 +7,8 @@ Objective
 
 Create a personal webpage using HTML and CSS. Practice text structure, lists, images, links, tables, forms, selectors, spacing, and positioning.
 
-<img width="1512" height="982" alt="Снимок экрана 2026-09-10 в 17 19 06" src="https://github.com/user-attachments/assets/71afe5f1-a591-4533-9434-7632f9a3f60a" />
 <img width="1512" height="982" alt="Снимок экрана 2026-09-10 в 17 19 00" src="https://github.com/user-attachments/assets/07733277-75f9-4ab8-8729-e663d9b9d53f" />
+<img width="1512" height="982" alt="Снимок экрана 2026-09-10 в 17 19 06" src="https://github.com/user-attachments/assets/71afe5f1-a591-4533-9434-7632f9a3f60a" />
 
 
 Part 1 — Introduction to HTML
