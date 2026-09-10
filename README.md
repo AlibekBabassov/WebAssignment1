@@ -31,9 +31,17 @@ Step 4: Added a “Click Me” button.
 Part 2 — Intermediate HTML
 
 Step 5: Created a weekly schedule table with Subject, Day, and Time columns.
+<img width="304" height="202" alt="Снимок экрана 2026-09-10 в 17 53 17" src="https://github.com/user-attachments/assets/3362db3e-2f21-45c9-a286-7d1bbe1d226d" />
+
+
 Step 6: The optional table-based layout challenge was not completed.
+
+
 Step 7: Added a paragraph about my mood containing three emojis.
+<img width="753" height="66" alt="Снимок экрана 2026-09-10 в 17 53 35" src="https://github.com/user-attachments/assets/13371b47-acb4-44fb-a21f-2005d9b692e2" />
+
 Step 8: Created a form with name, email, favorite color, and submit fields.
+<img width="603" height="47" alt="Снимок экрана 2026-09-10 в 17 53 59" src="https://github.com/user-attachments/assets/c103ddc6-971a-43f0-a673-14d0f5c48a78" />
 
 Part 3 — Introduction to CSS
 
