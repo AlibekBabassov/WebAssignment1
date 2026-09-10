@@ -1,0 +1,86 @@
+body {
+    background-color: rgb(177, 181, 179);
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2.5rem;
+}
+
+h2, h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 2em;
+}
+
+table{
+    border: 2px solid;
+    padding: 10px;
+    margin: 30px;
+    text-align: center;
+}
+
+img{
+    float: left;
+    border: 5px dashed;
+    padding: 2px;
+    margin: 15px;
+    width: 50%;
+    max-width: 300px;
+}
+
+.header{
+    position: relative;
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    color: white;
+}
+
+.main-content{
+    position: static;
+    background-color: rgb(134, 1, 134);
+    padding: 20px;
+}
+
+.footer{
+    background-color: black;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    border-top: 5px solid;
+    margin-top: 40px;
+}
+
+.hobbies{
+    float: right;
+    width: 200px;
+}
+
+.hobby{
+    color: rgb(15, 223, 223);
+    font-weight: bold;
+}
+
+.highlight{
+    color: rgb(255, 145, 0);
+    font-style: oblique;
+    font-size: larger;
+}
+
+.clearfix {
+    clear: both;
+}
+
+#main-heading{
+    color: rgb(7, 34, 190);
+    font-weight: bolder;
+}
+
+#course{
+    color: red;
+    font-style: italic;
+    position: absolute;
+    top: 10px;
+    right: 20px;
+}
+
