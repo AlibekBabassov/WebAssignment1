@@ -46,20 +46,50 @@ Step 8: Created a form with name, email, favorite color, and submit fields.
 Part 3 — Introduction to CSS
 
 Step 9:Applied CSS styling to the webpage.
+<img width="444" height="60" alt="Снимок экрана 2026-09-10 в 17 57 36" src="https://github.com/user-attachments/assets/6e99daea-ca3a-4260-9f0a-409798770c3f" />
+
+
 Step 10: Used inline CSS to change a paragraph’s text color.
+<img width="798" height="53" alt="Снимок экрана 2026-09-10 в 17 58 34" src="https://github.com/user-attachments/assets/2f307d61-9bb3-4270-9d0e-e2f4c96385d3" />
+
+
 Step 11: The final styling uses an external stylesheet and inline styles.
+<img width="555" height="164" alt="Снимок экрана 2026-09-10 в 17 59 28" src="https://github.com/user-attachments/assets/c9b043ec-af27-4115-a902-7ae8c3aedf3b" />
+
 Step 12: Created `style.css` and linked it to `index.html`.
+<img width="537" height="128" alt="Снимок экрана 2026-09-10 в 18 00 10" src="https://github.com/user-attachments/assets/8a777350-2485-4347-a54e-aa6440a1a851" />
+
+
 Step 13: Used element, class, and ID selectors to style the page.
+<img width="361" height="418" alt="Снимок экрана 2026-09-10 в 18 00 26" src="https://github.com/user-attachments/assets/d729eca6-1bdf-4a8f-9529-f090ab5c28b5" />
+
 Step 14: Applied `.highlight` to multiple elements and `#main-heading` to the main heading.
+<img width="361" height="418" alt="Снимок экрана 2026-09-10 в 18 00 26" src="https://github.com/user-attachments/assets/d729eca6-1bdf-4a8f-9529-f090ab5c28b5" />
+
 
 Part 4 — Intermediate CSS
 
 Step 15: Added a custom favicon from `images/favicon.png`.
+<img width="283" height="141" alt="Снимок экрана 2026-09-10 в 18 01 21" src="https://github.com/user-attachments/assets/897da9d7-46c1-4139-8c98-1f0cf6107d67" />
+
+
 Step 16: Grouped the page into header, main content, and footer sections using divs.
+<img width="336" height="233" alt="Снимок экрана 2026-09-10 в 18 01 43" src="https://github.com/user-attachments/assets/16c32d64-d596-4add-a82c-580345a9f5fa" />
+
+
 Step 17: Applied borders, margins, and padding to elements such as the photo and table.
+<img width="250" height="283" alt="Снимок экрана 2026-09-10 в 18 02 04" src="https://github.com/user-attachments/assets/3dda5078-c5aa-4593-84be-31bebc62ebf7" />
+
 Step 18: Used static positioning for the main content, relative positioning for the header, and absolute positioning for the group heading. The header currently has no positional offset.
+<img width="299" height="232" alt="Снимок экрана 2026-09-10 в 18 02 21" src="https://github.com/user-attachments/assets/171d5e50-d57b-47fc-969b-8303d1d865cc" />
+
 Step 19: Used `px`, `%`, `em`, and `rem` units.
+<img width="321" height="411" alt="Снимок экрана 2026-09-10 в 18 02 40" src="https://github.com/user-attachments/assets/660c6520-0560-4dbb-ab72-11b243dbcdc3" />
+
 Step 20: Floated the hobbies list to the right and the photo to the left. Used `clear: both` after the hobbies list. These elements currently appear on different rows.
+<img width="181" height="108" alt="Снимок экрана 2026-09-10 в 18 03 10" src="https://github.com/user-attachments/assets/3216c307-6bc8-42ec-b2f4-c84df294652f" />
+<img width="199" height="76" alt="Снимок экрана 2026-09-10 в 18 03 32" src="https://github.com/user-attachments/assets/509e879c-dedb-4d4f-907a-743a388a3388" />
+
 
 Work Process
 
