@@ -17,7 +17,7 @@ Step 0: Created `index.html` with the basic HTML structure and the page title �
 Step 1: Added headings with my name, group, and “About Me”, followed by a short introduction.
 Step 2: Created an ordered list of hobbies and an unordered list of favorite websites.
 Step 3: Added my photo and clickable links to YouTube and LeetCode.
-Step 4: Added a “Click Me” button. No functionality is required for this step.
+Step 4: Added a “Click Me” button. 
 
 Part 2 — Intermediate HTML
 
