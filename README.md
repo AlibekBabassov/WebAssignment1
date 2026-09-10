@@ -44,14 +44,6 @@ Step 18: Used static positioning for the main content, relative positioning for 
 Step 19: Used `px`, `%`, `em`, and `rem` units.
 Step 20: Floated the hobbies list to the right and the photo to the left. Used `clear: both` after the hobbies list. These elements currently appear on different rows.
 
-Project Files
-
-index.html — webpage structure and content.
-style.css — external CSS rules.
-images/photo.png — personal photo.
-images/favicon.png — website icon.
-README.md — assignment report.
-
 Work Process
 
 I built the webpage structure in HTML and added personal information, lists, links, a photo, a schedule, and a form. I styled the elements using CSS, including colors, fonts, spacing, borders, and positioning. I opened the webpage in a browser to inspect its appearance and uploaded the project files to GitHub.
